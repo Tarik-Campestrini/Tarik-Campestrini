@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Tarik-Campestrini 
+Nickcarv18
+/
+Nickcarv18
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Nickcarv18/.github/workflows/cobrinha.yml
+@Nickcarv18
+Nickcarv18 Create cobrinha.yml
+Latest commit 54956b5 on 13 Aug 2021
+ History
+ 1 contributor
+26 lines (22 sloc)  586 Bytes
+   
+  
 name: Generate Datas
 
 on:
@@ -14,7 +43,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: https://github.com/Tarik-Campestrini
+          github_user_name: Tarik-Campestrini
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
