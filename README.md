@@ -3,9 +3,9 @@
 
 
 
-
+- 👨‍🎓 Estudando:  Engenharia da computaçãp
 - 👨‍🎓 Estudando:  Dev Full Stack 
-- 🌱 Aprendendo: Angular, Spring;
+- 🌱 Aprendendo: Angular, Spring, Java, Python;
 - 🎒 Ferrametas: Visual Studio Code e GitHub;
 
 <div>
