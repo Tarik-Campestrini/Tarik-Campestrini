@@ -3,7 +3,7 @@
 
 
 
-- 👨‍🎓 Estudando:  Engenharia da computação
+- 👨‍🎓 Estudando:  Ciência de dados
 - 👨‍🎓 Estudando:  Dev Full Stack 
 - 🌱 Aprendendo: Angular, Spring, Java, Python;
 - 🎒 Ferrametas: Visual Studio Code e GitHub;
